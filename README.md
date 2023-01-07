@@ -16,5 +16,5 @@
 I am a data science student with a strong background in tools such as Tableau, Power BI, advanced Excel, Python, and SQL. I have a passion for using data to drive business decisions and solve real-world problems. In my studies and projects, I have gained experience in data wrangling, visualization, and analysis, and I am always looking for opportunities to learn and grow as a data professional.
 
 ##
-![Logo](https://img.shields.io/badge/dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white)
+![Logo](https://www.netic.dk/wp-content/uploads/2018/11/Line-web-banner-for-artificial-intelligence-1.png)
 
