@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.salesforce.com/plus/series/Simply_Put?utm_source=giphy&utm_medium=organic_social&utm_campaign=amer_cbaw&utm_content=" width="500" height="500"/>
+  <img src="https://media4.giphy.com/media/sQ1HZe2QIQr7MBVACd/giphy.gif?cid=ecf05e47tsjs3ebh7yr8tnqy22uay1vn3849cnzjgmnqxnx6&rid=giphy.gif&ct=g" width="500" height="500"/>
 </div>
 
 
