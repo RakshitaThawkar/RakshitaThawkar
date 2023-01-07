@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://giphy.com/gifs/watson-geekout-HUplkVCPY7jTW" width="600" height="300"/>
+  <img src="https://media3.giphy.com/media/HUplkVCPY7jTW/giphy.gif?cid=ecf05e47efqkx28kumhxl2t97y8sptx00t11ppr33765jqr9&rid=giphy.gif&ct=g" width="600" height="300"/>
 </div>
 
 
