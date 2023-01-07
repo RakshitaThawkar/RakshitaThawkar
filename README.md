@@ -13,7 +13,9 @@
   
 </div>
 
-I am a data science student with a strong background in tools such as Tableau, Power BI, advanced Excel, Python, and SQL. I have a passion for using data to drive business decisions and solve real-world problems. In my studies and projects, I have gained experience in data wrangling, visualization, and analysis, and I am always looking for opportunities to learn and grow as a data professional.
+As a data science student, I have developed a strong foundation in a range of tools that are essential for success in the field. These include Tableau, Power BI, advanced Excel, Python, and SQL. I am passionate about using data to drive business decisions and solve real-world problems, and I have gained experience in data wrangling, visualization, and analysis through my studies and projects.
+
+I am constantly seeking out new opportunities to learn and grow as a data professional. Whether through coursework or hands-on projects, I am dedicated to expanding my knowledge and skills in the field of data science. I believe that this drive and dedication will enable me to make a meaningful contribution to any organization and continue to grow and succeed as a data science professional
 
 ##
 ![Logo](https://assets.weforum.org/article/image/responsive_big_webp_-1usr3g1ISvVdZZpEO-B7A0ROjmKD8nRNb5x_IwYlXQ.webp)
