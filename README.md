@@ -16,5 +16,5 @@
 I am a data science student with a strong background in tools such as Tableau, Power BI, advanced Excel, Python, and SQL. I have a passion for using data to drive business decisions and solve real-world problems. In my studies and projects, I have gained experience in data wrangling, visualization, and analysis, and I am always looking for opportunities to learn and grow as a data professional.
 
 ##
-![Logo](https://www.netic.dk/wp-content/uploads/2018/11/Line-web-banner-for-artificial-intelligence-1.png)
+![Logo]([https://www.netic.dk/wp-content/uploads/2018/11/Line-web-banner-for-artificial-intelligence-1.png](https://assets.weforum.org/article/image/responsive_big_webp_-1usr3g1ISvVdZZpEO-B7A0ROjmKD8nRNb5x_IwYlXQ.webp))
 
